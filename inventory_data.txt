@@ -1,0 +1,154 @@
+51
+Laptop
+5
+899.99
+Phone
+10
+499.99
+Headphones
+20
+79.99
+Keyboard
+15
+49.99
+Mouse
+30
+19.99
+Monitor
+8
+299.99
+Printer
+5
+199.99
+Scanner
+3
+149.99
+External Hard Drive
+12
+129.99
+USB Flash Drive
+50
+9.99
+Smartwatch
+7
+299.99
+Tablet
+9
+399.99
+Desktop Computer
+3
+999.99
+Television
+2
+1499.99
+Game Console
+6
+399.99
+Router
+10
+79.99
+Modem
+8
+59.99
+Wireless Earbuds
+15
+89.99
+Bluetooth Speaker
+20
+69.99
+Digital Camera
+4
+299.99
+Camcorder
+2
+499.99
+Projector
+3
+599.99
+Microphone
+6
+129.99
+Soundbar
+5
+199.99
+Gaming Headset
+4
+149.99
+Power Bank
+20
+29.99
+Smart Home Hub
+3
+179.99
+Smart Bulbs
+15
+19.99
+Smart Thermostat
+4
+199.99
+Robot Vacuum
+6
+299.99
+Electric Toothbrush
+10
+49.99
+Hair Dryer
+8
+39.99
+Curling Iron
+5
+29.99
+Flat Iron
+4
+24.99
+Electric Shaver
+6
+69.99
+Coffee Maker
+12
+79.99
+Blender
+9
+49.99
+Toaster
+10
+29.99
+Microwave Oven
+5
+149.99
+Air Fryer
+6
+8765
+Vacuum Cleaner
+4
+199.99
+Smart Door Lock
+3
+129.99
+Security Camera
+5
+79.99
+Smart Scale
+6
+49.99
+Wireless Charger
+15
+39.99
+Smart Plug
+10
+19.99
+Dryer
+2
+567
+Digital Photo Frame
+4
+89.99
+Smart Mirror
+2
+199.99
+Air Fan
+3
+43
+Banana
+3
+56
